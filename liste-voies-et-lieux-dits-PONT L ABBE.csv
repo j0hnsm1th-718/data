@@ -1,0 +1,318 @@
+nom;type;number_count;numbers
+Allee Blaise Pascal;voie;4;1,2,3,4
+Allee de la Chataigneraie;voie;8;2,4,6,8,10,12,14,16
+Allee de Prat Guen;voie;21;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+Allee des Albizias;voie;5;1,3,4,5,7
+Allée des Chataigniers;voie;6;1,2,3,4,6,8
+Allée des Genêts;voie;7;1,2,3,4,5,7,11
+Allée des Mandarins;voie;4;1,2,3,4
+Allée Descartes;voie;4;1,2,3,5
+Allee Diderot;voie;9;1,2,3,4,5,6,7,8,9
+Allée du Ruisseau;voie;9;1,2,3,4,5,6,7,8,9
+Allee Jean de la Fontaine;voie;4;1,2,3,4
+Allée Julien Gracq;voie;6;1,2,3,4,5,6
+Allée Maria Le Maréchal;voie;6;1,2,3,4,6,8
+Allée Olympe de Gouges;voie;3;1,3,5
+Avenue de Bantry;voie;27;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18,19,20,21,22,23,24,25,26,28,32
+Avenue de Kerarthur;voie;27;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,26,28,30,32
+Avenue de Menez-Bihan;voie;39;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,33,35,37,39,41,43,47,49,51,53,55
+Avenue de Schleiden;voie;30;2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Avenue de Trébéhoret;voie;32;1,2,3,4,5,6,7,8,9,10,11,12,14,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,32,34,36,38
+Avenue du Douric;voie;55;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,56
+Avenue du Guerdy;voie;24;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,23,25,27,29
+Avenue du Guiric;voie;30;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,28,30,32,34,36
+Avenue Eric Tabarly;voie;28;1,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+Avenue Jacques Chirac;voie;35;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,35,37
+Botvellec;voie;2;1,2
+Boulevard des Poilus;voie;16;1,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+Brémilliec;voie;3;1,2,3
+Bringall Izella;voie;2;1,2
+Bringall;voie;1;10
+Chemin de Gorrelen;voie;7;1,2,3,4,5,6,7
+Chemin de Keralio;voie;1;11
+Chemin de Kerargont;voie;12;1,2,3,5,7,9,10,11,16,18,20,22
+Chemin de Kernuz;voie;13;1,3,4,5,6,8,9,10,11,12,14,16,18
+Chemin de Kerondo Vras;voie;16;1,2,3,5,9,11,13,15,17,19,21,23,25,27,29,31
+Chemin de Kerondo;voie;11;1,2,3,4,5,6,7,8,9,11,13
+Chemin de Kerrouant;voie;18;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,21
+Chemin de Kerseoc'h;voie;4;1,2,3,4
+Chemin de l’Etang;voie;3;1,3,5
+Chemin de Lambour;voie;5;1,2,4,6,8
+Chemin de Penamprat;voie;9;1,2,3,4,5,7,9,11,13
+Chemin de Pors Moro;voie;11;1,2,3,4,5,6,7,8,9,11,13
+Chemin de Rosquerno;voie;9;2,4,8,12,14,16,18,20,22
+Chemin de Trevannec;voie;11;2,4,6,8,10,12,14,16,18,20,22
+Chemin des justices;voie;4;1,2,3,5
+Chemin du Cosquer;voie;6;1,2,3,4,5,7
+Chemin du Guerdy;voie;8;2,4,6,8,10,12,14,16
+Chemin du Moulin à Vent;voie;16;1,3,4,5,6,7,8,9,10,11,12,13,16,17,18,19
+Chemin du Penker Coz;voie;5;7,9,11,13,15
+Chemin du Séquer Névéz;voie;23;1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,18,20,22,24,26,28,30,32
+Clos Corentin;voie;6;1,3,5,7,9,11
+Croas Ver;voie;1;1
+Enclos de Kerentrée;voie;6;1,2,3,4,5,6
+Goarem Guéon;voie;2;5,62
+Goarem Kernuz;voie;3;1,2,3
+Hameau de Kerlaouarn;voie;16;1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17
+Hameau de Treouguy;voie;10;1,2,3,4,5,6,7,8,9,11
+Hent Ar Ven Dero;voie;6;1,3,5,7,9,11
+Impasse Amélie;voie;3;1,2,3
+Impasse Charles le Bastard;voie;6;1,2,3,4,5,7
+Impasse de Canape;voie;4;1,2,3,4
+Impasse de Kerdual;voie;8;1,2,3,4,5,6,7,8
+Impasse de Kergus;voie;7;1,2,3,4,5,6,8
+Impasse de Ménez Bijigou;voie;14;1,2,4,5,6,8,9,10,11,12,14,15,16,18
+Impasse de Trebehoret;voie;7;1,2,3,4,5,6,7
+Impasse des Bruyères;voie;5;1,2,3,4,5
+Impasse des Hulottes;voie;12;1,2,3,4,5,6,7,8,9,10,11,12
+Impasse des Oliviers;voie;13;1,2,3,4,5,6,7,8,9,10,11,12,13
+Impasse des Romains;voie;5;2,3,4,5,7
+Impasse Jeanne d’Arc;voie;9;1,2,3,4,5,6,7,8,9
+Impasse Lamartine;voie;12;1,2,3,4,5,6,7,8,9,10,12,14
+Impasse Menez Roz;voie;14;1,2,3,4,5,6,7,8,9,10,11,12,13,14
+Impasse Mogueriou;voie;5;1,2,3,4,5
+Impasse Monot;voie;3;1,3,7
+Impasse Parc Mel;voie;5;1,2,3,4,6
+Impasse Parc Tyrien;voie;4;1,3,4,6
+Impasse Pierre Volant;voie;1;24
+Impasse Théodore;voie;5;1,3,5,7,9
+Kéraudren;voie;2;1,2
+Kerentre;voie;1;59
+Kerguévélen;voie;1;6
+Kergus;voie;1;8
+Kermaria;voie;1;17
+Kernel;voie;1;1
+Kerondo Vihan;voie;1;7
+Kervihan;voie;4;1,2,3,4
+La Gare;voie;1;1
+La Palue;voie;4;1,2,3,4
+Lieu Dit Hent Ar Foennec;voie;3;1,2,3
+Lieu Dit Kerondo Vraz;voie;8;2,17,19,21,25,27,29,31
+Lotissement de Kerambleis;voie;1;57
+Lotissement de Trébéhoret;voie;2;3,5
+Lotissement les Vergers du Séquer;voie;15;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+Lotissement Park Névez;voie;8;1,3,4,5,7,8,9,10
+Lotissement Rosveign;voie;1;29
+Malabry;voie;1;6
+Mejou Lannou;voie;4;2,3,4,5
+Menez Bot;voie;1;1
+Menez Kerlaouarn;voie;8;1,2,3,4,5,6,7,8
+Moulin du Sequer;voie;12;1,2,3,4,5,6,7,8,9,10,11,13
+Pagotaie;voie;3;1,2,3
+Park Ar Stankou;voie;5;2,5,8,12,14
+Park Nevez;voie;11;1,2,3,4,5,6,7,8,9,10,12
+Park-Montouarc’H;voie;5;1,3,5,7,9
+Passage de la Levée;voie;4;1,2,3,5
+Passage du Douric-Coz;voie;1;2
+Penhoat;voie;5;1,2,3,4,5
+Place Brizeux;voie;1;1
+Place de la République;voie;38;2,3,4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,36,38,40,42,44,46
+Place de Trébéhoret;voie;15;1,2,3,4,5,6,7,8,9,10,12,14,16,18,20
+Place des Agapanthes;voie;4;1,2,3,4
+Place des Carmes;voie;10;1,2,4,5,6,7,8,10,12,17
+Place des Echaudees;voie;4;2,4,6,8
+Place du Douric-Coz;voie;12;2,3,4,5,6,7,8,9,10,11,12,13
+Place du Guerdy;voie;5;1,3,5,7,9
+Place du Pont Guern;voie;4;1,3,4,6
+Place Gambetta;voie;27;1,2,3,4,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
+Place Toussaint Louverture;voie;3;1,2,3
+Place Victor Hugo;voie;3;1,3,10
+Place Voltaire;voie;5;1,5,7,9,11
+Poulleac H;voie;1;3
+Quai de Pors-Moro;voie;6;1,2,4,5,15,17
+Quai Henry-Maurice Bénard;voie;3;1,3,5
+Quai Saint-Laurent;voie;12;1,2,3,4,5,6,8,10,12,14,16,18
+Quartier Vallou;voie;16;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17
+Quelennou;voie;1;1
+Résidence d’An Hent Coz;voie;10;2,3,4,5,6,7,8,10,12,14
+Résidence de la Rivière;voie;18;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,21,23
+Résidence du Kreisker;voie;14;1,2,3,4,5,6,7,8,10,12,14,16,18,20
+Residence du Moulin de Pors Moro;voie;10;1,2,3,4,5,6,7,8,9,10
+Résidence du Steven;voie;22;2,3,4,5,6,7,8,9,11,12,13,15,17,19,21,23,25,27,29,31,33,35
+Résidence Louis Hémon;voie;12;1,2,3,4,5,6,7,8,9,10,11,12
+Route de Combrit;voie;19;1,2,3,5,6,7,8,9,10,11,14,15,16,17,25,27,29,31,35
+Route de Kerguévélen;voie;13;1,2,5,6,7,9,11,12,13,14,15,17,19
+Route de l’Ile-Chevalier;voie;1;9
+Route de Loctudy;voie;11;2,4,6,13,15,17,19,21,23,25,27
+Route de Plobannalec;voie;14;1,2,3,5,7,9,11,13,15,17,19,23,25,31
+Route de Plomeur;voie;11;1,2,3,4,5,6,7,8,10,12,14
+Route de Ploneour Lanvern;voie;1;14
+Route de Plonivel;voie;4;1,2,4,6
+Route de Queffen;voie;12;1,2,3,4,5,6,8,10,12,14,18,20
+Route de Saint Jean Trolimon;voie;5;9,31,51,53,220
+Route de Saint-Jean;voie;4;9,51,53,220
+Route de Saint-Servais;voie;18;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+Route de Tréméoc;voie;2;15,532
+Route de Troliguer;voie;17;2,3,4,5,7,8,9,10,11,12,15,16,26,28,30,32,34
+Rue Alain Signor;voie;34;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,33,35,39,41,43,45
+Rue Alfred le Dilosquer;voie;16;1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,18
+Rue Anjela Duval;voie;22;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,23
+Rue Anne de Bretagne;voie;14;1,2,3,4,5,6,7,8,9,10,12,14,16,18
+Rue Ar Soner du;voie;26;1,2,3,4,5,6,7,8,9,10,11,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40
+Rue Arnoult;voie;14;1,3,4,5,6,7,8,9,11,12,13,14,16,18
+Rue Auguste Dupouy;voie;41;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,27,29,31,33,35,37,39,41,43,45,49,51,53,55,57,59
+Rue Bienheureux Vincent l’Henoret;voie;37;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,30,32,34,36,38,40,42,44,46
+Rue Bringall Huella;voie;14;1,2,3,4,5,6,7,8,9,10,11,12,13,14
+Rue Brizeux;voie;17;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19
+Rue Burdeau;voie;13;1,2,3,4,5,6,7,8,9,11,12,13,15
+Rue Cadoudal;voie;6;1,2,3,5,7,26
+Rue Carnot;voie;8;3,5,6,7,8,9,10,11
+Rue Charles Darwin;voie;7;1,3,5,6,8,10,12
+Rue Charles du Quélennec;voie;11;1,2,3,4,5,6,7,8,9,10,12
+Rue Charles le Bastard;voie;33;2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,25,26,27,28,29,30,35,37,39,41,43
+Rue Charles le Goffic;voie;13;1,2,3,4,5,6,7,8,9,10,12,14,16
+Rue Chateaubriand;voie;20;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,21,23
+Rue Colonel Arnaud Beltrame;voie;20;1,2,3,4,5,6,7,8,10,11,12,13,14,15,17,19,21,23,25,27
+Rue Condorcet;voie;11;1,2,3,4,5,6,8,10,12,14,16
+Rue Corn Lan;voie;13;1,2,3,4,5,6,7,8,10,12,14,16,18
+Rue Danton;voie;17;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18
+Rue de Bringall;voie;13;1,2,3,5,6,7,8,9,11,13,15,17,19
+Rue de Goarem Gueon;voie;15;1,2,3,4,5,6,7,8,9,10,11,12,14,16,18
+Rue de Keralio;voie;16;2,4,5,6,7,8,9,10,11,12,13,15,17,19,21,23
+Rue de Kerembleis;voie;9;2,3,4,5,6,7,9,10,12
+Rue de Kérentrée;voie;18;1,2,3,4,5,6,7,8,10,12,14,16,18,20,22,24,26,28
+Rue de l’Eglise;voie;4;2,4,5,6
+Rue de la Carrière;voie;25;1,3,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,28,30,32
+Rue de la Gare;voie;43;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,36,38,40,42,44,46,48,50,52
+Rue de la Grotte;voie;49;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60,62,64,66
+Rue de la Halle;voie;10;2,3,4,5,6,7,8,10,12,20
+Rue de la Madeleine;voie;8;1,2,3,4,5,6,7,8
+Rue de la Source;voie;12;1,2,3,4,5,6,7,8,9,11,13,46
+Rue de Lambour;voie;54;2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,22,23,24,25,26,29,30,31,32,33,35,36,37,38,39,40,41,42,43,44,45,47,49,50,51,52,53,54,55,56,58,60,62,64,66
+Rue de Mènez Rouz;voie;15;1,3,5,7,9,11,13,15,17,19,21,23,25,27,29
+Rue de Merville;voie;9;1,2,3,4,5,6,7,8,10
+Rue de Poulleac H;voie;23;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,24,26
+Rue de Prat Guen;voie;24;4,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,32,34
+Rue de St Jean;voie;1;31
+Rue de Ster Vad;voie;28;1,2,3,4,5,6,7,8,9,10,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48
+Rue des Brodeuses;voie;14;1,2,3,4,5,6,7,8,9,10,11,12,13,14
+Rue des Carmes;voie;15;2,3,5,7,9,10,11,12,13,14,15,16,17,18,20
+Rue des Chevaliers;voie;17;1,2,3,4,5,6,7,8,9,10,12,14,16,18,20,22,24
+Rue des Déportés;voie;24;1,3,5,7,12,13,15,16,18,19,20,21,22,23,24,25,26,27,28,29,30,32,34,40
+Rue des Hortensias;voie;8;1,2,3,4,5,6,7,8
+Rue des Lavandières;voie;11;1,2,3,4,5,6,7,8,9,10,12
+Rue des Morts;voie;7;2,3,4,5,6,7,8
+Rue des Pins;voie;13;1,2,3,4,5,6,7,8,9,10,11,13,15
+Rue Douarlinec;voie;18;1,2,3,4,5,6,7,8,9,10,11,12,13,15,17,19,21,23
+Rue Dreon An Ilis;voie;9;1,2,3,4,5,6,7,8,9
+Rue du 11 Novembre;voie;27;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,25,27,29,31
+Rue du 19 Mars 1962;voie;24;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,21,23,25,27,29,36
+Rue du 8 Mai 1945;voie;16;1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,18
+Rue du Calvaire;voie;35;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,31,33,35,37,39,41,43
+Rue du Château;voie;20;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,21,55
+Rue du Colonel Rol Tanguy;voie;17;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18
+Rue du Docteur Guias;voie;3;2,3,4
+Rue du Douric-Coz;voie;20;1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,18,20,22,24,26
+Rue du Général de Gaulle;voie;122;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,23,24,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,47,48,49,50,51,52,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,119,120,121,122,123,125,127,129,131
+Rue du Guesclin;voie;12;1,2,3,4,5,6,7,8,9,11,13,15
+Rue du Guiric;voie;51;13,15,17,19,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,67,69
+Rue du Lycée;voie;71;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,28,30,31,32,33,34,35,36,37,38,39,41,43,44,45,46,47,49,50,51,52,53,54,55,56,59,60,61,62,63,64,65,66,67,68,70,71,72,73,74,75,76,77,78,80,82
+Rue du Manoir;voie;5;2,4,6,8,10
+Rue du Méjou;voie;22;1,2,3,4,5,6,7,8,9,10,11,12,13,15,16,17,19,20,21,22,23,25
+Rue du Ménez;voie;16;1,2,3,4,5,6,7,8,9,10,11,13,15,17,19,21
+Rue du Menhir;voie;12;1,2,3,4,5,6,7,8,9,10,11,12
+Rue du Penker Nevez;voie;22;1,2,4,6,9,10,11,13,14,15,17,18,19,20,21,22,23,24,25,26,27,28
+Rue du Penquer;voie;9;1,2,3,4,5,6,8,9,10
+Rue du Petit Train;voie;6;1,3,4,7,9,11
+Rue du Prat;voie;8;2,3,4,6,8,10,12,14
+Rue du Séquer;voie;34;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,30,32,34,36,38,40
+Rue du Stade;voie;16;1,2,3,4,5,6,7,8,11,13,15,17,19,21,23,25
+Rue du Steven;voie;11;1,2,3,4,5,6,7,8,10,12,14
+Rue Duguay Trouin;voie;5;1,2,3,4,6
+Rue Duguesclin;voie;12;1,2,3,4,5,6,7,8,9,11,13,15
+Rue Elie Fréron;voie;41;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,33,35,37,39,41,43,45,47,49,51
+Rue Floquet;voie;4;2,6,8,10
+Rue François Bazin;voie;9;1,2,3,4,5,7,9,11,13
+Rue François Mitterand;voie;35;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54
+Rue Frehel;voie;13;1,2,3,4,5,6,7,9,11,13,15,17,19
+Rue George Sand;voie;13;1,2,3,4,5,6,7,8,9,10,11,12,14
+Rue Georges Clémenceau;voie;12;1,2,4,5,6,7,8,10,11,14,16,18
+Rue Georges Geo Fourrier;voie;12;1,2,3,4,5,6,7,8,9,10,12,14
+Rue Georges Pompidou;voie;17;2,3,4,5,6,7,8,9,10,11,12,13,15,17,19,21,23
+Rue Gustave Eiffel;voie;18;1,2,3,4,5,7,9,11,13,15,17,19,21,23,25,27,29,31
+Rue Guy le Garrec;voie;24;1,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,27,35
+Rue Hélène Boucher;voie;2;1,2
+Rue Hent Coz;voie;7;2,4,6,10,12,14,16
+Rue Hoche;voie;23;1,2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,25
+Rue Hyacinthe le Bleis;voie;8;1,2,3,4,5,6,7,9
+Rue Jean Jacques Rousseau;voie;13;1,2,3,4,5,6,7,8,9,10,11,12,13
+Rue Jean Jaurès;voie;42;2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,33,34,35,36,37,39,41,43,45,47,49,51
+Rue Jean Julien Lemordant;voie;11;1,2,3,4,5,6,7,8,9,10,12
+Rue Jean Lautrédou;voie;44;2,3,4,5,6,7,9,11,12,14,15,16,18,20,21,22,23,24,25,26,27,28,29,30,31,32,34,35,36,38,39,40,41,42,43,44,45,46,47,48,50,52,54,56
+Rue Jean le Berre;voie;15;2,3,4,6,7,9,10,11,12,13,14,15,16,17,18
+Rue Jean Moulin;voie;35;1,2,3,4,5,7,8,9,11,13,15,16,17,18,19,21,22,23,24,25,26,27,28,29,31,33,35,37,39,41,43,47,49,51,53
+Rue Jean Racine;voie;22;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,21,23,25,27
+Rue Jeanne Bohec;voie;2;1,3
+Rue Jeanne d’Arc;voie;44;2,3,4,6,7,8,10,12,14,16,18,20,22,23,24,25,26,28,29,31,32,33,34,35,37,39,40,41,43,44,45,46,47,48,50,51,52,53,55,56,57,58,59,60
+Rue Jules Ferry;voie;5;1,2,4,6,8
+Rue Jules Simon;voie;18;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+Rue Kreis Ar Pin;voie;17;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+Rue Laënnec;voie;12;1,2,3,4,5,6,8,10,12,14,16,18
+Rue Lamartine;voie;23;1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,26
+Rue le Normant des Varannes;voie;7;1,2,3,4,5,6,7
+Rue Leuquer Guéor;voie;25;1,2,3,4,5,6,7,8,9,10,11,12,13,15,17,19,21,23,25,27,29,31,33,35,37
+Rue Louis Braille;voie;15;1,2,3,4,5,6,7,8,9,10,11,12,13,14,16
+Rue Louis Hémon;voie;2;3,6
+Rue Louis Lagadic;voie;49;2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,50,52,54
+Rue Lucien Simon;voie;3;1,2,4
+Rue Madame de Pompery;voie;30;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,23,25,27,29,31,33,35,37,39
+Rue Marçeau;voie;6;1,3,4,5,6,7
+Rue Marcel Cariou;voie;10;4,5,6,7,8,9,11,12,14,16
+Rue Marie Anne le Minor;voie;30;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,24,26,28,30,32,34,36,38,40
+Rue Marie Curie;voie;5;1,2,3,4,5
+Rue Marie de Kerstrat;voie;1;1
+Rue Mathurin Méheut;voie;3;2,4,6
+Rue Menez Ar Piquet;voie;19;1,2,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,22
+Rue Michelet;voie;16;3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,20
+Rue Molière;voie;12;1,2,3,4,5,6,7,8,10,12,14,16
+Rue Monseigneur Jolivet;voie;30;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,23,24,25,26,27,28,29,30,31
+Rue Nicolas Laine;voie;26;1,3,5,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,30,32
+Rue Nicolas;voie;7;1,2,3,4,5,6,7
+Rue Noire;voie;6;1,3,7,9,11,13
+Rue Nominöé;voie;16;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+Rue Odette du Puigaudeau;voie;21;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22
+Rue Parc Boreden;voie;11;1,2,3,4,5,6,7,8,10,11,13
+Rue Pasteur;voie;33;1,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,32,34,36,38
+Rue Paul Verlaine;voie;10;1,2,3,4,5,6,7,9,11,13
+Rue Pen Enez;voie;26;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,23,25,27,29,31,33
+Rue Per Jakez Helias;voie;49;1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60,62,64,66,68
+Rue Peronnelle de Rochefort;voie;4;2,4,5,8
+Rue Pierre Corneille;voie;9;1,2,3,4,5,6,7,9,11
+Rue Pierre de Belay;voie;21;1,2,3,4,5,6,7,8,10,11,12,13,14,16,18,20,22,24,28,30,32
+Rue Pierre Loti;voie;6;1,2,3,4,6,8
+Rue Pierre Teilhard de Chardin;voie;13;1,2,3,4,5,6,7,8,9,10,12,14,16
+Rue Pierre Theilard de Chardin;voie;6;1,3,8,9,10,14
+Rue Pierre Volant;voie;33;1,3,4,5,6,8,9,10,12,13,14,15,16,17,18,19,20,22,24,26,28,30,34,36,38,40,42,44,46,48,50,52,54
+Rue Puig de Ritalongi;voie;30;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+Rue Quillivic;voie;10;1,2,4,6,8,10,12,14,16,18
+Rue Rabelais;voie;6;1,2,3,4,6,8
+Rue Raymond Guenet;voie;46;1,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,43,45,47,49,51,53,55,57,59
+Rue Raymonde Folgoas Guillou;voie;12;1,2,3,4,5,6,7,8,9,13,15,17
+Rue René Cotty;voie;13;1,2,3,4,5,6,7,9,11,13,15,17,19
+Rue Roger Signor;voie;23;1,2,6,8,10,11,12,13,14,15,16,17,18,19,20,22,23,24,25,26,27,29,30
+Rue Saint-Jacques;voie;3;1,5,7
+Rue Sebastien Jolivet;voie;8;1,2,3,4,6,7,8,10
+Rue Surcouf;voie;9;1,2,3,4,5,6,7,8,9
+Rue Théodore Botrel;voie;36;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,32,34,36,38,40,42
+Rue Traverse;voie;10;1,2,3,4,5,6,7,8,9,10
+Rue Victor Hugo;voie;47;1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21,22,24,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,48,50,52,54
+Rue Voltaire;voie;5;2,4,6,8,10
+Rue Xavier Grall;voie;12;1,2,3,4,5,6,8,10,12,14,16,18
+Rue Youen Drezen;voie;20;1,2,3,4,5,6,7,8,10,11,12,13,14,15,17,19,21,23,25,27
+Sequer;voie;15;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+Trébéhoret de Imp.;voie;2;10,12
+Trébéhoret;voie;1;17
+Treouguy;voie;1;1
+Troliguer;voie;2;25,40
+Venelle de Kerembleis;voie;12;1,2,3,4,5,6,7,8,9,10,11,12
+Venelle de Treouguy;voie;17;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18
+Venelle de Troliguer;voie;5;1,2,3,4,5
+Venelle des Ajoncs;voie;14;1,3,4,5,6,7,8,9,10,11,12,13,15,17
+Venelle des Cormes;voie;15;1,2,3,4,5,6,7,8,9,10,11,12,14,16,18
+Venelle des Glénan;voie;5;1,2,3,4,5
+Venelle des Pins;voie;5;1,2,3,4,5
+Venelle Dorée;voie;4;2,4,6,8
+Venelle Gwel Kaer;voie;5;1,2,3,4,5
+Village de Goarem-Guéon;voie;14;3,4,5,6,7,8,9,12,14,16,18,20,22,24
+ZA de Kerouant;voie;5;1,2,3,4,5
+Kerfez;lieux-dit;0;
