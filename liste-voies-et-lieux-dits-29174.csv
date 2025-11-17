@@ -95,29 +95,30 @@ Impasse Henri Miquel;109;voie;7;1,2,3,4,5,6,7
 Impasse Jean Jaurès;110;voie;13;1,2,3,4,5,6,7,8,9,10,11,13,15
 Impasse Poul Bian;112;voie;3;1,3,5
 Impasse René le Berre;112;voie;9;1,2,3,4,5,6,7,8,10
-Impasse Yvon Brun;;voie;3;2,4,6
-Kerallain;;voie;1;1
-Kerambludou;;voie;5;1,2,4,6,8
-Kerandraon Vihan;;voie;5;1,3,5,7,9
-Kerandraon;;voie;2;1,5
-Keraoul;;voie;2;2,4
-Kerascoet;;voie;1;1
-Kerbenoch;;voie;3;2,4,6
-Kerbilaët;;voie;3;9,11,13
-Kerbrohen;;voie;1;1
-Kerc'hastel;;voie;6;2,4,6,8,10,12
+Impasse Yvon Brun;112;voie;3;2,4,6
+Kerallain;112;voie;1;1
+Kerambludou;203;voie;5;1,2,4,6,8
+Kerandraon Vihan;106;voie;5;1,3,5,7,9
+Kerandraon;106;voie;2;1,5
+Keraoul;110;voie;2;2,4
+Kerascoet;111;voie;1;1
+Kerbenoch;110;voie;3;2,4,6
+Kerbilaët;112;voie;3;9,11,13
+Kerbrohen;203;voie;1;1
+Kerc'hastel;111;voie;6;2,4,6,8,10,12
 Kerdalem Vras;106;voie;6;5,7,9,11,13,15
-Kerdrezec;;voie;1;1
+Kerdrezec;109;voie;1;1
 Kereon Izella;112;voie;6;2,4,6,8,10,12
-Kereon;;voie;24;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,20,22,24,26,28,30,32
-Keresquen;;voie;3;1,2,4
-Kerfelest;;voie;7;1,2,3,5,7,9,11
-Kerfeulest;;voie;3;2,4,6
-Kerfloch;;voie;1;2
-Kerfoulard;;voie;19;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+Kereon;112;voie;24;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,20,22,24,26,28,30,32
+Keresquen;111;voie;3;1,2,4
+Kerfelest;112;voie;7;1,5,7,9
+Kerfelest;109;voie;;2,3,11
+Kerfeulest;112;voie;3;2,4,6
+Kerfloch;111;voie;1;2
+Kerfoulard;110;voie;19;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
 Kergambae;110;voie;7;2,4,6,8,10,12,14
-Kerganevet;;voie;1;2
-Kergoulas;;voie;2;2,4
+Kerganevet;110;voie;1;2
+Kergoulas;106;voie;2;2,4
 Kergueff;;voie;4;2,4,6,8
 Kerguelloux Vihan;111;voie;1;1
 Kerguelloux;111;voie;2;2,4
@@ -146,208 +147,208 @@ Kervahut;;voie;2;1,2
 Kervallot;;voie;3;1,3,5
 Kervant;;voie;5;1,2,3,4,5
 Kervescar;;voie;2;2,4
-Kerviligou;;voie;3;1,2,4
-Kervilloc;;voie;11;1,2,3,5,7,9,11,13,15,17,19
+Kerviligou;111;voie;3;1,2,4
+Kervilloc;203;voie;11;1,2,3,5,7,9,11,13,15,17,19
 Kervouyen;106;voie;5;1,3,5,7,9
 Kervrouyen;;voie;8;1,2,4,6,8,10,12,14
-Keryan;;voie;2;2,4
-Kerzeurec;;voie;3;1,3,5
-Kreisker;;voie;1;1
-La Minee;;voie;3;2,4,6
+Keryan;203;voie;2;2,4
+Kerzeurec;106;voie;3;1,3,5
+Kreisker;110;voie;1;1
+La Minee;110;voie;3;2,4,6
 La Pommeraie de Saint - Julien;112;voie;9;1,2,3,4,5,6,7,8,10
-Languivoa;;voie;25;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26
-Lanluriec;;voie;5;1,2,3,4,5
-Lanvern;;voie;1;2
-Le Guenvez;;voie;2;2,4
-Le Guib;;voie;1;1
-Le Hellen;;voie;10;1,3,5,7,9,11,13,15,17,19
-Le Leuret;;voie;6;2,4,6,8,10,12
-Le Miné;;voie;13;1,3,5,7,9,11,13,15,17,19,21,23,25
-Le Rest;;voie;2;1,2
+Languivoa;110;voie;25;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26
+Lanluriec;203;voie;5;1,2,3,4,5
+Lanvern;111;voie;1;2
+Le Guenvez;110;voie;2;2,4
+Le Guib;112;voie;1;1
+Le Hellen;101 [108];voie;10;1,3,5,7,9,11,13,15,17,19
+Le Leuret;110;voie;6;2,4,6,8,10,12
+Le Miné;112;voie;13;1,3,5,7,9,11,13,15,17,19,21,23,25
+Le Rest;111;voie;2;1,2
 Le Veuz;110;voie;16;1,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30
 Lec'hrenn;110;voie;3;1,3,5
-Lescoulouarn;;voie;22;1,2,3,4,5,6,7,8,9,10,11,12,13,15,16,17,19,21,23,25,27,29
+Lescoulouarn;112;voie;22;1,2,3,4,5,6,7,8,9,10,11,12,13,15,16,17,19,21,23,25,27,29
 Lespenhi;111;voie;5;1,3,5,7,9
 Lespenhy Vian;111;voie;21;1,2,3,4,5,6,7,8,9,10,12,14,15,16,17,19,20,21,22,23,25
 Lieu Dit Boderes;111;voie;15;1,2,3,4,5,6,7,8,9,10,12,14,16,18,20
-Lieu Dit Brahiliec;;voie;3;1,3,5
-Lieu Dit Brec Houel;;voie;3;2,4,6
-Lieu Dit Briscoul;;voie;6;2,4,6,8,10,12
-Lieu Dit Coat Gueguen;;voie;1;2
-Lieu Dit Coat Saint Honore;;voie;1;2
-Lieu Dit Cosquer;;voie;2;2,4
-Lieu Dit Cozmaner;;voie;13;1,2,4,6,8,9,10,11,12,14,16,18,20
-Lieu Dit Creac H Calvic;;voie;5;2,4,5,6,13
-Lieu Dit Creach Carnic;;voie;3;1,3,5
+Lieu Dit Brahiliec;110;voie;3;1,3,5
+Lieu Dit Brec Houel;112;voie;3;2,4,6
+Lieu Dit Briscoul;111;voie;6;2,4,6,8,10,12
+Lieu Dit Coat Gueguen;111;voie;1;2
+Lieu Dit Coat Saint Honore;110;voie;1;2
+Lieu Dit Cosquer;106;voie;2;2,4
+Lieu Dit Cozmaner;110;voie;13;1,2,4,6,8,9,10,11,12,14,16,18,20
+Lieu Dit Creac H Calvic;110;voie;5;2,4,5,6,13
+Lieu Dit Creach Carnic;110;voie;3;1,3,5
 Lieu Dit Creach Irvin;110;voie;5;1,3,5,7,9
-Lieu Dit Creach Ru;;voie;3;1,3,5
+Lieu Dit Creach Ru;106;voie;3;1,3,5
 Lieu Dit Fao David;106;voie;6;1,3,5,7,9,11
 Lieu Dit Fao Youen;110;voie;14;1,2,3,4,5,6,7,8,9,10,11,12,13,15
-Lieu Dit Goarem Coz;;voie;2;1,2
-Lieu Dit Hent Kerbascol;;voie;37;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,28,30,32,34,36,38,40,42,44,46,48
-Lieu Dit Kerallan;;voie;13;1,2,3,4,5,6,7,8,9,11,13,15,17
-Lieu Dit Keransquedel;;voie;3;1,2,3
+Lieu Dit Goarem Coz;112;voie;2;1,2
+Lieu Dit Hent Kerbascol;203;voie;37;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,28,30,32,34,36,38,40,42,44,46,48
+Lieu Dit Kerallan;203;voie;13;1,2,3,4,5,6,7,8,9,11,13,15,17
+Lieu Dit Keransquedel;111;voie;3;1,2,3
 Lieu Dit Keravel;110;voie;15;1,2,3,4,5,6,7,8,9,11,13,15,17,19,21
-Lieu Dit Kerazan;;voie;3;1,2,4
-Lieu Dit Kerbloas;;voie;1;2
-Lieu Dit Kerbreac H;;voie;3;1,2,3
+Lieu Dit Kerazan;110;voie;3;1,2,4
+Lieu Dit Kerbloas;111;voie;1;2
+Lieu Dit Kerbreac H;112;voie;3;1,2,3
 Lieu Dit Kerc Hoat;;voie;2;1,2
-Lieu Dit Kerdalem;;voie;2;1,3
+Lieu Dit Kerdalem;106;voie;2;1,3
 Lieu Dit Kereon Voel;203;voie;6;1,3,5,7,9,11
-Lieu Dit Kerfiat;;voie;10;1,2,3,4,5,6,7,9,11,13
+Lieu Dit Kerfiat;203;voie;10;1,2,3,4,5,6,7,9,11,13
 Lieu Dit Kergambae An Dour;110;voie;1;1
 Lieu Dit Kergambae Creiz;110;voie;2;2,4
 Lieu Dit Kerganet;;voie;6;2,4,6,8,10,12
-Lieu Dit Kergaviny;;voie;18;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,21
-Lieu Dit Kergonda;;voie;8;1,2,3,4,5,7,9,11
-Lieu Dit Kergonian;;voie;4;2,4,6,8
-Lieu Dit Kergorn;;voie;3;2,4,6
+Lieu Dit Kergaviny;110;voie;18;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,21
+Lieu Dit Kergonda;111;voie;8;1,2,3,4,5,7,9,11
+Lieu Dit Kergonian;106;voie;4;2,4,6,8
+Lieu Dit Kergorn;110;voie;3;2,4,6
 Lieu Dit Kergoulouarn;110;voie;16;1,2,3,4,5,6,7,9,11,13,15,17,19,21,23,25
-Lieu Dit Kerguien;;voie;3;2,4,6
-Lieu Dit Kerguivien;;voie;8;1,2,3,4,5,6,7,8
+Lieu Dit Kerguien;111;voie;3;2,4,6
+Lieu Dit Kerguivien;111;voie;8;1,2,3,4,5,6,7,8
 Lieu Dit Kerhua;110;voie;9;1,2,3,4,5,7,9,11,13
-Lieu Dit Kericun;;voie;1;1
-Lieu Dit Kerignon;;voie;5;1,2,4,6,8
+Lieu Dit Kericun;111;voie;1;1
+Lieu Dit Kerignon;203;voie;5;1,2,4,6,8
 Lieu Dit Keristic;110;voie;5;4,6,8,10,12
 Lieu dit Kerlantonet;111;voie;1;1
 Lieu Dit Kerleach;111;voie;9;1,2,3,4,5,7,9,11,13
-Lieu Dit Kerlemesq;;voie;2;1,3
-Lieu Dit Kerliver;;voie;3;2,4,6
-Lieu Dit Kerloyet;;voie;2;1,3
-Lieu Dit Kerneizan;;voie;6;1,3,5,7,9,11
-Lieu Dit Kernevez;;voie;1;1
+Lieu Dit Kerlemesq;112;voie;2;1,3
+Lieu Dit Kerliver;111;voie;3;2,4,6
+Lieu Dit Kerloyet;111;voie;2;1,3
+Lieu Dit Kerneizan;203;voie;6;1,3,5,7,9,11
+Lieu Dit Kernevez;110;voie;1;1
 Lieu Dit Kerniou Vihan;110;voie;3;2,4,6
-Lieu Dit Kerniou;;voie;2;1,8
-Lieu Dit Keroec;;voie;5;3,5,7,9,11
-Lieu Dit Kerolland;;voie;3;1,2,3
-Lieu Dit Keroret;;voie;4;1,3,5,7
-Lieu Dit Kerparc;;voie;1;4
+Lieu Dit Kerniou;110;voie;2;1,8
+Lieu Dit Keroec;203;voie;5;3,5,7,9,11
+Lieu Dit Kerolland;110;voie;3;1,2,3
+Lieu Dit Keroret;110;voie;4;1,3,5,7
+Lieu Dit Kerparc;106;voie;1;4
 Lieu Dit Kerprigent;110;voie;8;1,2,3,4,5,6,7,8
-Lieu Dit Kerrien;;voie;1;2
-Lieu Dit Kerruc;;voie;19;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
-Lieu Dit Kersaux;;voie;2;1,3
-Lieu Dit Kerscao;;voie;1;2
-Lieu Dit Kerscoudou;;voie;3;1,2,4
+Lieu Dit Kerrien;106;voie;1;2
+Lieu Dit Kerruc;112;voie;19;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+Lieu Dit Kersaux;111;voie;2;1,3
+Lieu Dit Kerscao;111;voie;1;2
+Lieu Dit Kerscoudou;111;voie;3;1,2,4
 Lieu Dit Kervelen;;voie;5;1,2,4,6,8
-Lieu Dit Kerverien;;voie;2;1,2
-Lieu Dit Kervern;;voie;2;1,2
+Lieu Dit Kerverien;110;voie;2;1,2
+Lieu Dit Kervern;112;voie;2;1,2
 Lieu Dit Kervoalen;;voie;2;1,3
-Lieu Dit la Tour;;voie;5;1,3,5,7,9
-Lieu Dit Langustans;;voie;4;1,2,3,4
-Lieu Dit le Helles;;voie;14;2,3,4,6,8,9,10,11,12,13,14,15,16,18
-Lieu Dit le Ruot;;voie;10;1,2,3,4,5,6,7,8,9,11
-Lieu Dit le Stang;;voie;28;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,24,26,28,30,32,34,36
-Lieu Dit Lesbervet;;voie;10;1,2,3,4,5,6,7,8,10,12
-Lieu Dit Lespern;;voie;4;1,2,3,5
-Lieu Dit Lestregueoc;;voie;16;1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,18
-Lieu Dit Leureles;;voie;3;1,3,5
-Lieu Dit Mejou Roz;;voie;32;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,31,33,35,37
+Lieu Dit la Tour;111;voie;5;1,3,5,7,9
+Lieu Dit Langustans;111;voie;4;1,2,3,4
+Lieu Dit le Helles;112;voie;14;2,3,4,6,8,9,10,11,12,13,14,15,16,18
+Lieu Dit le Ruot;109;voie;10;1,2,3,4,5,6,7,8,9,11
+Lieu Dit le Stang;109;voie;28;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,24,26,28,30,32,34,36
+Lieu Dit Lesbervet;203;voie;10;1,2,3,4,5,6,7,8,10,12
+Lieu Dit Lespern;109;voie;4;1,2,3,5
+Lieu Dit Lestregueoc;111;voie;16;1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,18
+Lieu Dit Leureles;111;voie;3;1,3,5
+Lieu Dit Mejou Roz;203;voie;32;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,31,33,35,37
 Lieu Dit Menez Yeun;110;voie;25;1,2,3,4,5,6,7,8,9,10,11,12,14,16,18,20,22,24,26,28,30,32,34,36,38
-Lieu Dit Mine Car;;voie;12;1,2,3,4,6,8,10,12,14,16,18,20
-Lieu Dit Minodic;;voie;1;1
-Lieu Dit Moitie Route;;voie;34;1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,31,45,47,51,53,55,57
-Lieu Dit Park Ar Groas;;voie;7;1,2,3,4,5,6,7
-Lieu Dit Pen Ar Prat;;voie;15;1,2,3,4,5,6,7,8,9,10,12,14,16,18,20
+Lieu Dit Mine Car;112;voie;12;1,2,3,4,6,8,10,12,14,16,18,20
+Lieu Dit Minodic;110;voie;1;1
+Lieu Dit Moitie Route;112;voie;34;1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,31,45,47,51,53,55,57
+Lieu Dit Park Ar Groas;110;voie;7;1,2,3,4,5,6,7
+Lieu Dit Pen Ar Prat;203;voie;15;1,2,3,4,5,6,7,8,9,10,12,14,16,18,20
 Lieu Dit Pen Yeun;110;voie;1;2
 Lieu Dit Penfrat Coz;110;voie;3;5,7,9
 Lieu Dit Penfrat Nevez;110;voie;2;1,3
-Lieu Dit Penker Bihan;;voie;3;8,10,14
-Lieu Dit Pennanguer;;voie;11;1,2,3,4,5,6,7,8,10,12,14
+Lieu Dit Penker Bihan;110;voie;3;8,10,14
+Lieu Dit Pennanguer;111;voie;11;1,2,3,4,5,6,7,8,10,12,14
 Lieu Dit Pennarc'Hoat;;voie;1;1
 Lieu Dit Rest Treouron;;voie;3;1,3,5
-Lieu Dit Runevez;;voie;1;1
+Lieu Dit Runevez;112;voie;1;1
 Lieu Dit Tachen Ar Groas;;voie;4;1,2,3,5
-Lieu Dit Toularcus;;voie;4;4,6,8,10
-Lieu Dit Trebonvel;;voie;3;1,2,3
-Lieu Dit Tregonda;;voie;1;2
-Lieu Dit Trelen;;voie;2;1,2
-Lieu Dit Ty Crohen;;voie;2;1,3
+Lieu Dit Toularcus;111;voie;4;4,6,8,10
+Lieu Dit Trebonvel;110;voie;3;1,2,3
+Lieu Dit Tregonda;111;voie;1;2
+Lieu Dit Trelen;112;voie;2;1,2
+Lieu Dit Ty Crohen;110;voie;2;1,3
 Lieu Dit Villoury Kerneizan;;voie;1;1
 Lieu dit Viloury Caoudal;;voie;3;2,4,6
 Lot les Chenes de Kerganet;;voie;30;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
 Lotissement de Mejou Roz;;voie;4;1,2,3,4
 Lotissement Kerruc Nevez;;voie;14;1,2,3,4,5,6,7,8,9,10,11,12,15,17
 Maner Bihan;;voie;4;1,3,5,7
-Manoir de Trevilit;;voie;2;2,4
+Manoir de Trevilit;203;voie;2;2,4
 Menez Glaz;;voie;2;2,4
 Menez Kerlanguiriec;;voie;2;2,3
-Moitie Route Braz;;voie;2;2,4
-Moitie Route Huella;;voie;3;1,3,5
+Moitie Route Braz;112;voie;2;2,4
+Moitie Route Huella;112;voie;3;1,3,5
 Moulin de Bondivy;111;voie;3;1,3,5
 Moulin de Callac;;voie;2;1,2
 Moulin de Kerbénoc'h;;voie;1;1
 Moulin de la Tour;;voie;2;2,4
-Moulin de Lanvern;;voie;1;1
-Moulin de Tregalet;;voie;1;1
-Moulin de Tremiliec;;voie;1;3
-Moulin de Treouron;;voie;3;1,2,3
+Moulin de Lanvern;111;voie;1;1
+Moulin de Tregalet;109;voie;1;1
+Moulin de Tremiliec;110;voie;1;3
+Moulin de Treouron;110;voie;3;1,2,3
 Moulin du Fao;110;voie;2;1,2
 Park Laê Moitié Route;112;voie;5;1,3,4,5,6
 Park Menez Gouyen;;voie;5;1,3,5,7,9
 Park Tin Malo;110;voie;7;1,2,3,4,5,6,7
 Penarpont;;voie;1;2
 Penfrat Vihan;110;voie;1;2
-Penisquin;;voie;8;1,2,3,5,7,9,11,13
+Penisquin;112;voie;8;1,2,3,5,7,9,11,13
 Penker Braz;110;voie;3;2,4,6
 Penker Nevez;110;voie;1;12
-Pennale;;voie;4;1,3,5,7
-Pennalen;;voie;3;1,2,3
-Pennaroz;;voie;2;1,2
-Pennarue;;voie;3;1,2,4
-Penscouric;;voie;4;1,3,5,7
-Place Amiral Ronarc'H;;voie;1;1
-Place Charles de Gaulle;;voie;5;1,2,3,4,5
-Place de la République;;voie;9;1,2,3,4,5,6,7,8,10
+Pennale;203;voie;4;1,3,5,7
+Pennalen;110;voie;3;1,2,3
+Pennaroz;109;voie;2;1,2
+Pennarue;111;voie;3;1,2,4
+Penscouric;110;voie;4;1,3,5,7
+Place Amiral Ronarc'H;110;voie;1;1
+Place Charles de Gaulle;108;voie;5;1,2,3,4,5
+Place de la République;108;voie;9;1,2,3,4,5,6,7,8,10
 Place des Fauvettes;112;voie;15;1,2,3,4,5,6,7,8,9,10,11,12,13,15,17
-Place du 19 mars 1962;;voie;1;12
-Place Victor Hugo;;voie;10;1,2,3,4,5,6,8,9,10,11
-Pont Sanved;;voie;1;6
-Pratoazec;;voie;1;3
+Place du 19 mars 1962;110;voie;1;12
+Place Victor Hugo;110;voie;10;1,2,3,4,5,6,8,9,10,11
+Pont Sanved;111;voie;1;6
+Pratoazec;112;voie;1;3
 Quelordan;203;voie;5;1,3,5,7,9
-Résidence de la Colline;;voie;9;1,2,3,4,5,6,7,8,9
+Résidence de la Colline;101 [109];voie;9;1,2,3,4,5,6,7,8,9
 Residence de Stang Ar Goulinet;110;voie;6;1,2,3,4,5,6
 Résidence des 3 Chenes;102;voie;22;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,20,22,24,26,28
-Résidence des Pommiers;;voie;12;1,2,3,4,5,6,7,8,9,10,11,15
-Résidence du Lavoir;101;voie;15;1,2,3,4,5,6,7,8,9,10,11,12,13,14,16
+Résidence des Pommiers;101 [109];voie;12;1,2,3,4,5,6,7,8,9,10,11,15
+Résidence du Lavoir;101 [102];voie;15;1,2,3,4,5,6,7,8,9,10,11,12,13,14,16
 Résidence Park Heol;111;voie;12;1,2,3,4,5,6,7,8,9,10,11,12
-Rest Nevez;;voie;6;1,2,3,5,7,9
+Rest Nevez;111;voie;6;1,2,3,5,7,9
 Roscoz Bihan;111;voie;2;9,11
 Roscoz Bras;111;voie;1;1
 Route de Brenanvec;101;voie;29;1,6,7,10,12,14,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33,34,36,38,42,44,46
-Route de Coatellen;;voie;3;1,3,5
-Route de Kerbilaet;;voie;6;1,2,3,4,5,7
+Route de Coatellen;112;voie;3;1,3,5
+Route de Kerbilaet;112;voie;6;1,2,3,4,5,7
 Route de Kerganet;101 [105];voie;12;1,2,3,4,5,6,7,8,9,11,15,18
 Route de Keriforn;112;voie;15;1,2,4,6,8,9,10,11,12,13,14,16,17,18,19
-Route de Kernivin;;voie;12;1,2,3,4,5,6,7,8,10,12,14,16
+Route de Kernivin;112;voie;12;1,2,3,4,5,6,7,8,10,12,14,16
 Route de Kersonis;111;voie;2;1,2
 Route de Plogastel;111;voie;26;1,2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19,20,21,23,35,37,39,41,43
 Route de Pont-l'Abbé;112;voie;21;1,2,3,4,5,6,7,8,9,10,11,12,14,16,26,28,30,32,34,36,38
 Route de Quelordan;203;voie;1;1
 Route de Quimper;110;voie;46;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,32,33,34,35,36,37,38,39,40,41,42,43,44,46,48,50
-Route de Saint Jean Trolimon;;voie;5;1,2,3,4,5
+Route de Saint Jean Trolimon;109;voie;5;1,2,3,4,5
 Route de Saint-julien;101 [112];voie;17;57,61,63,65,67,69,73,75,77,79,42,44,46,48,50,52,54
 Route de Saint-julien;101 [112];voie;27;1,3,4,5,6,7,8,9,10,12,14,24,33,34,35,36,37,38,39,40,41,43,45,47,49,51,56
-Route de Tréguennec;;voie;10;1,2,3,4,5,6,7,8,9,10
-Route de Tréméoc;;voie;6;2,4,5,6,8,10
+Route de Tréguennec;109;voie;10;1,2,3,4,5,6,7,8,9,10
+Route de Tréméoc;110;voie;6;2,4,5,6,8,10
 Route de Tréogat;111;voie;9;5,7,16,18,20,22,24,26,28
 Route de Tréogat;109;voie;9;1,2,3,4,6,8,10,12,14
-Rue Albert Camus;;voie;27;1,2,3,4,5,6,9,11,13,14,15,16,17,18,19,20,21,22,23,24,25,27,29,31,33,35,37
+Rue Albert Camus;109;voie;27;1,2,3,4,5,6,9,11,13,14,15,16,17,18,19,20,21,22,23,24,25,27,29,31,33,35,37
 Rue Anatole France;110;voie;19;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,21
-Rue Anatole le Braz;;voie;5;1,2,3,4,5
+Rue Anatole le Braz;109;voie;5;1,2,3,4,5
 Rue Bananec;109;voie;14;1,2,3,4,5,6,7,8,9,10,11,13,15,17
-Rue Brunec;;voie;3;1,3,5
-Rue Camille Claudel;;voie;26;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,23,25,27,29,31,33
+Rue Brunec;109;voie;3;1,3,5
+Rue Camille Claudel;112;voie;26;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,23,25,27,29,31,33
 Rue Carn Guillermic;110;voie;13;1,2,3,4,6,8,9,10,11,12,13,15,17
-Rue Charles le Goffic;;voie;10;2,3,4,5,6,7,8,9,11,13
+Rue Charles le Goffic;112;voie;10;2,3,4,5,6,7,8,9,11,13
 Rue de Canapé;101;voie;20;1,2,3,4,5,6,7,8,9,10,11,15,16,18,20,22,24,26,28,30
 Rue de Croas Ar Bléon;108;voie;26;1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,25,26,27,29
-Rue de Croas-caër;;voie;6;2,3,4,5,6,7
+Rue de Croas-caër;203;voie;6;2,3,4,5,6,7
 Rue de Kergonda;111;voie;15;1,2,3,5,6,7,8,9,10,11,12,13,14,16,18
 Rue de Kergonian;;voie;7;1,2,3,4,6,8,10
 Rue de Kéryéquel;;voie;27;1,2,3,4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,25,27,29,31,33
 Rue de la Fontaine;109;voie;7;2,3,5,7,9,11,13
 Rue de la Forge;112;voie;18;2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,20,22,24
-Rue de la Lande;;voie;32;1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,33,35
+Rue de la Lande;203;voie;32;1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,33,35
 Rue de la Marne;;voie;9;1,2,3,4,5,6,7,8,9
 Rue de Mariano;;voie;25;1,2,3,4,5,9,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,31
 Rue de Verdun;110;voie;12;1,2,3,4,5,6,7,8,9,10,12,14
@@ -364,8 +365,8 @@ Rue des Magnolias;109;voie;9;1,2,3,4,5,6,7,9,11
 Rue des Marguerites;109;voie;14;1,2,3,4,5,6,7,8,9,11,13,15,17,19
 Rue des Paquerettes;109;voie;8;1,2,3,4,5,6,8,10
 Rue des Primevères;109;voie;13;1,2,3,4,5,6,7,8,10,12,14,16,18
-Rue des Stades;;voie;16;2,3,4,5,6,7,9,11,12,13,14,15,16,17,18,20
-Rue des Tourterelles;;voie;13;1,2,3,4,6,8,9,10,11,13,15,17,19
+Rue des Stades;112;voie;16;2,3,4,5,6,7,9,11,12,13,14,15,16,17,18,20
+Rue des Tourterelles;110;voie;13;1,2,3,4,6,8,9,10,11,13,15,17,19
 Rue Drenec;109;voie;12;1,2,3,4,5,6,7,8,9,10,12,14
 Rue du Château d'Eau;108;voie;9;1,2,3,4,5,6,8,10,12
 Rue du Vieux Moulin;;voie;9;1,2,3,4,6,8,10,12,14
@@ -376,51 +377,51 @@ Rue Fréderic le Guyader;;voie;7;2,3,4,5,6,7,8
 Rue Goarem TI Bout;;voie;9;1,2,3,4,5,6,7,8,9
 Rue Guy Moquet;;voie;37;1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38
 Rue Henri Lautrédou;112;voie;35;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,28,30,31,33,35,37,39,41,43
-Rue Hent Ar Skol;;voie;13;1,2,3,4,5,6,7,8,9,12,14,16,18
+Rue Hent Ar Skol;106;voie;13;1,2,3,4,5,6,7,8,9,12,14,16,18
 Rue Jakez Pemp;112;voie;16;1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,18
 Rue Jean Jaurès;110;voie;45;1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,47,49
 Rue Joséphine Baker;203;voie;15;1,2,3,4,5,6,7,8,9,10,11,12,14,15,17
 Rue Jules Ferry;108;voie;19;1,2,3,4,5,6,7,8,9,10,11,12,14,16,18,20,22,24,26
 Rue Jules Verne;110;voie;18;1,2,4,5,6,7,8,9,10,11,12,13,14,16,18,20,22,24
-Rue Laënnec;;voie;3;1,2,4
-Rue le Loch;;voie;10;1,2,3,4,5,6,8,10,12,14
+Rue Laënnec;109;voie;3;1,2,4
+Rue le Loch;109;voie;10;1,2,3,4,5,6,8,10,12,14
 Rue Louis Hémon;;voie;13;1,2,3,4,5,6,7,8,10,12,14,16,18
-Rue Louis Pasteur;;voie;18;2,3,4,6,7,8,10,11,12,13,14,15,16,18,19,20,21,23
+Rue Louis Pasteur;109;voie;18;2,3,4,6,7,8,10,11,12,13,14,15,16,18,19,20,21,23
 Rue Lucie Aubrac;;voie;15;1,2,3,4,5,6,8,10,12,14,16,18,20,22,24
 Rue Marie de Kerstrat;110;voie;20;1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,22
 Rue Ménez Gouyen;110;voie;14;1,2,3,4,5,6,7,8,9,10,12,17,19,21
-Rue Michel Morzadec;;voie;3;1,2,4
-Rue Miquel;;voie;20;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,20,24,26
-Rue Neuve;;voie;12;1,2,3,4,5,6,8,10,11,12,13,14
+Rue Michel Morzadec;110;voie;3;1,2,4
+Rue Miquel;109;voie;20;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,20,24,26
+Rue Neuve;112;voie;12;1,2,3,4,5,6,8,10,11,12,13,14
 Rue Penfret;;voie;10;1,2,3,4,5,6,7,8,9,11
-Rue Pierre Brossolette;;voie;26;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,23,28,30,32,34
-Rue Pierre Loti;;voie;1;1
-Rue Pierre Marie Riou;;voie;10;1,3,4,5,6,8,10,12,14,16
+Rue Pierre Brossolette;112;voie;26;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,23,28,30,32,34
+Rue Pierre Loti;110;voie;1;1
+Rue Pierre Marie Riou;112;voie;10;1,3,4,5,6,8,10,12,14,16
 Rue René Daniel;108;voie;5;2,4,6,8,10
 Rue René le Berre;110;voie;2;1,2
 Rue René le Berre;112;voie;16;3,5,7,8,9,10,11,12,13,14,15,16,19,21,23,25
 Rue Rosa Bonheur;112;voie;49;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,41,43,45,47,49,51,53,55,57,61
 Rue Saint Nicolas;109;voie;8;1,2,3,4,5,7,9,11
 Rue Stang Ar Rozen;110;voie;15;1,2,3,4,5,6,7,8,9,10,11,12,13,14,16
-Rue Théodore Botrel;;voie;18;1,2,3,4,5,6,7,8,9,10,11,14,15,17,19,21,23,25
+Rue Théodore Botrel;109;voie;18;1,2,3,4,5,6,7,8,9,10,11,14,15,17,19,21,23,25
 Rue Traon Ar Lin;111;voie;11;1,2,3,4,5,6,7,8,9,10,12
 Rue Traverse;110;voie;4;1,2,4,6
-Rue Yan Ar Goff;;voie;7;1,2,3,4,6,11,14
+Rue Yan Ar Goff;112;voie;7;1,2,3,4,6,11,14
 Stang Ar Goulinet;110;voie;26;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,25,27,29
-Tregalet;;voie;20;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21
-Tréluant;;voie;3;1,3,5
-Tremiliec;;voie;1;1
-Treordo;;voie;11;1,2,4,6,8,10,12,14,16,18,20
-Tréouron;;voie;1;2
-Trevilit;;voie;1;1
-Ty Coat;;voie;2;1,3
+Tregalet;109;voie;20;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21
+Tréluant;109;voie;3;1,3,5
+Tremiliec;110;voie;1;1
+Treordo;111;voie;11;1,2,4,6,8,10,12,14,16,18,20
+Tréouron;110;voie;1;2
+Trevilit;203;voie;1;1
+Ty Coat;112;voie;2;1,3
 Ty Douar;110;voie;2;1,3
-Ty Gwaremm;;voie;1;1
+Ty Gwaremm;106;voie;1;1
 Ty Istribilh;110;voie;2;1,2
 Ty Pin;204;voie;1;1
 Tyer Poes;110;voie;2;2,4
 Venelle de Keryequel;112;voie;6;1,2,3,4,6,8
 Venelle de Mariano;111;voie;5;1,2,3,6,8
-Zone Artisanale de Kerganet;101;voie;5;1,2,3,4,6
+Zone Artisanale de Kerganet;101 [105];voie;5;1,2,3,4,6
 Zone Artisanale de Kerlavar;112;voie;38;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,38,40
-ZA de Kerganet;101;lieux-dit;0;
+ZA de Kerganet;101 [105];lieux-dit;0;
