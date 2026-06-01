@@ -1,0 +1,333 @@
+@media print {
+    @page {
+      size: A4; /* DIN A4 standard, Europe */
+      margin: 0;
+    }
+    html, body {
+        width: 210mm;
+        min-height: 297mm;
+        background: #FFF;
+        overflow: visible;
+    }
+    /* Réinitialiser les styles de base */
+    * {
+        visibility: visible !important;
+        display: revert !important;
+    }
+    /* Masquer uniquement les éléments siblings directs de #pvConstatContent */
+    body > :not(#pvConstatModal) {
+        display: none !important;
+    }
+    /* Afficher #pvConstatModal et son contenu */
+    #pvConstatModal {
+        display: block !important;
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        background: white !important;
+        overflow: visible !important;
+        background: #FFF;
+    }
+    /* Afficher le contenu de la modale */
+    #pvConstatModal .modal-content {
+        display: block !important;
+        position: relative !important;
+        width: 100% !important;
+        height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        box-shadow: none !important;
+    }
+    /* Afficher #pvConstatContent */
+    #pvConstatContent {
+        display: block !important;
+        visibility: visible !important;
+        position: relative !important;
+        width: 100% !important;
+        margin: 0 !important;
+        min-height: 267mm; /* 297mm (hauteur A4) - 30mm (espace pour le pied de page) */
+        padding-bottom: 30mm; /* Espace réservé pour le pied de page */
+    }
+    p, a, input, span, strong {
+        font-size: 12pt;
+    }
+    /* Styles pour le contenu interne */
+    #pvConstatContent .document {
+        margin: 10mm !important;
+        padding: 0 !important;
+        width: auto !important;
+        height: auto !important;
+        page-break-after: avoid;
+    }
+    #main_data {
+        border: 1px solid black;
+        margin-bottom: 1.5em;
+        padding: 0.5mm;
+    }
+    /* Styles pour les titres et en-tête */
+    #pvConstatContent h1 {
+        font-size: 16pt;
+    }
+    #pvConstatContent h2, #pvConstatContent p {
+        font-size: 10pt;
+    }
+    #pvConstatContent h1,
+    #pvConstatContent h2,
+    #pvConstatContent h3 {
+        text-align: left;
+        margin: 5pt 0;
+        page-break-after: avoid;
+    }
+    /* Styles pour les tableaux */
+    #pvConstatContent table {
+        width: 100% !important;
+        border: none !important;
+        box-shadow: none !important;
+        border-collapse: collapse;
+        table-layout: fixed;
+        margin-bottom: 10pt;
+        page-break-inside: avoid;
+    }
+    #pvConstatContent td {
+        vertical-align: top;
+        padding: 3mm 4mm !important;
+        border: none !important;
+    }
+    #pvConstatContent .table-section-1 td:first-child {
+        width: 45mm !important;
+    }
+    #pvConstatContent .table-section-1 td:last-child {
+        width: calc(100% - 45mm) !important;
+    }
+    #pvConstatContent .table-section-4 td:first-child {
+        width: 130mm !important;
+    }
+    #pvConstatContent .table-section-4 td:last-child {
+        width: calc(100% - 130mm) !important;
+    }
+    /* Styles pour les inputs */
+    #pvConstatContent .editable-input {
+        width: 100%;
+        border: none;
+        border-bottom: none;
+        padding: 1pt 0;
+        outline: none;
+        background: transparent;
+        font-size: 10pt;
+        min-height: 4mm;
+        display: block;
+        margin-bottom: 1mm;
+    }
+    /* Styles pour les lignes d'adresse */
+    #pvConstatContent .adresse-line,
+    #pvConstatContent .adresse-line-2 {
+        display: flex !important;
+        gap: 3mm;
+        align-items: center;
+    }
+    /* Règles pour .numero-rue */
+    #pvConstatContent .adresse-line .numero-rue,
+    #pvConstatContent .adresse-line input.numero-rue,
+    #expediteur_numero_rue,
+    #destinataire_numero_rue {
+        width: 8mm !important;
+        min-width: 8mm !important;
+        max-width: 8mm !important;
+        flex: 0 0 8mm !important;
+        box-sizing: border-box !important;
+        display: inline-block !important;
+        position: relative !important;
+        overflow: visible !important;
+        font-size: 12pt !important;
+        padding: 1pt 0 !important;
+        /* margin: 0 1mm 0 0 !important; */
+        vertical-align: top !important;
+    }
+	#pvConstatContent .adresse-line-2 #expediteur_cp,
+    #pvConstatContent .adresse-line-2 input#expediteur_cp,
+	#pvConstatContent .adresse-line-2 #destinataire_cp,
+    #pvConstatContent .adresse-line-2 input#destinataire_cp     {
+        width: 16mm !important;
+        min-width: 16mm !important;
+        max-width: 16mm !important;
+        flex: 0 0 16mm !important;
+        box-sizing: border-box !important;
+        display: inline-block !important;
+        position: relative !important;
+        overflow: visible !important;
+        font-size: 12pt !important;
+        padding: 1pt 0 !important;
+        /* margin: 0 1mm 0 0 !important; */
+        vertical-align: top !important;  
+            }  
+    /* Réinitialiser le comportement flex pour .adresse-line */
+	#expediteur_complement.empty,
+	#destinataire_complement.empty {
+	    display: none !important;
+	}
+    /* Forcer les inputs à ne pas s'étendre */
+    #pvConstatContent .adresse-line input,
+    #pvConstatContent .adresse-line-2 input {
+        width: auto !important;
+        box-sizing: border-box !important;
+    }
+    /* Cibler spécifiquement les inputs "rue" */
+    #pvConstatContent .adresse-line .rue {
+        flex: 1 1 auto !important;
+        width: calc(100% - 11mm) !important; /* 8mm (numero) + 3mm (gap) */
+    }
+    /* Styles pour les champs de code postal */
+    #pvConstatContent #expediteur_cp,
+    #pvConstatContent #destinataire_cp {
+        display: inline-block !important;
+    }
+    /* Styles pour les cases à cocher */
+    #pvConstatContent .checkbox-label {
+        display: flex;
+        align-items: center;
+        gap: 15mm;
+        margin: 3mm 0;
+    }
+    /* Styles pour la date et la signature */
+    #pvConstatContent #pv_date {
+        display: inline-block !important;
+        width: 25mm !important;
+    }
+    #pvConstatContent #signature {
+        text-decoration: underline;
+    }
+    /* Styles pour le tampon */
+    #pvConstatContent .stamp {
+        font-size: 12pt;
+        margin: 3mm 0 10mm 0;
+        text-align: right;
+        page-break-inside: avoid;
+    }
+    #pvConstatContent .signature-section {
+        margin-top: 2mm;
+        text-align: right;
+        font-size: 12pt;
+		text-align: right;
+    }
+    /* Styles pour le pied de page */
+    #pvConstatContent #pv_footer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        height: 30mm;
+        font-size: 9pt;
+        border-top: 1px solid grey;
+        padding-left: 10mm;
+        page-break-inside: avoid;
+    }
+    #pvConstatContent #pv_footer table {
+        width: 100%;
+        border: none;
+		margin: 20px 0px 0px 0px !important;
+	}
+    #pvConstatContent #pv_footer td {
+        width: 33%;
+        vertical-align: top;
+        padding-top: 3mm;
+    }
+    /* Empêcher les sauts de page dans les sections importantes */
+    #pvConstatContent .entete,
+    #pvConstatContent .stamp,
+    #pvConstatContent table,
+    #pvConstatContent tr,
+    #pvConstatContent .table-section-1,
+    #pvConstatContent .table-section-4 {
+        page-break-inside: avoid;
+    }
+    /* Masquer les éléments inutiles à l'impression */
+    #pvConstatContent #communes-suggestions,
+    #pvConstatContent #communes-suggestions-destinataire,
+    #pvConstatContent #pv_button-menu {
+        display: none !important;
+    }
+    #pvConstatContent strong,
+    #pvConstatContent #expediteur_nom,
+	#pvConstatContent #expediteur_numero_rue,
+	#pvConstatContent #expediteur_adresse,
+    #pvConstatContent #expediteur_cp,
+    #pvConstatContent #expediteur_ville,
+    #pvConstatContent #destinataire_nom,
+	#pvConstatContent #destinataire_numero_rue,
+	#pvConstatContent #destinataire_adresse,
+    #pvConstatContent #destinataire_cp,
+    #pvConstatContent #destinataire_ville,
+    #pvConstatContent #colis_numero,
+    #pvConstatContent #pv_date,
+    #pvConstatContent #signature,
+    #pvConstatContent .pv-checkbox,
+    #pvConstatContent .signature-section, 
+    #pvConstatContent #date_du_jour{
+        font-size: 11pt !important;
+        text-decoration: none !important;
+    }
+	#expediteur_complement[value=""],
+	#destinataire_complement[value=""] {
+            display: none !important;
+            height: 0 !important;
+            margin: 0 !important;
+            padding: 0 !important;
+        }
+    /* Règle standard pour masquer les boutons */
+    #pv_button-menu {
+        display: none !important;
+    }
+    /* Règle renforcée pour Firefox */
+    body #pvConstatModal > #pv_button-menu {
+        display: none !important;
+        visibility: hidden !important;
+        height: 0 !important;
+        overflow: hidden !important;
+    }
+    /* Masquer les placeholders des inputs */
+    ::-webkit-input-placeholder {
+        color: transparent !important;
+        opacity: 0 !important;
+    }
+    ::-moz-placeholder {
+        color: transparent !important;
+        opacity: 0 !important;
+    }
+    :-ms-input-placeholder {
+        color: transparent !important;
+        opacity: 0 !important;
+    }
+    ::-ms-input-placeholder {
+        color: transparent !important;
+        opacity: 0 !important;
+    }
+    ::placeholder {
+        color: transparent !important;
+        opacity: 0 !important;
+    }
+    /* Impression PV Constat - DarkMode */
+    body.dark-mode  {
+		background-color: #FFF;
+		color: #000;
+        }    
+    body.dark-mode #pvConstatContent,
+    body.dark-mode #pvConstatContent .document  {
+    	background-color: #FFF;
+    	color: #000;
+        }
+	body.dark-mode #main_data,
+	body.dark-mode #pvConstatContent table  {
+		background-color: transparent;
+        }
+	body.dark-mode #pvConstatContent h1,
+    body.dark-mode #pvConstatContent h2,
+    body.dark-mode #pvConstatContent h3  {
+    	color: #000;
+        }
+        
+}

@@ -1,0 +1,56 @@
+/* PrintPickup.css */
+@media print {
+    body {
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    #pickupGeneratorContainer * {
+        visibility: hidden;
+    }
+
+    #pickupGeneratorContainer .pickup-a4-container,
+    #pickupGeneratorContainer .pickup-a4-container * {
+        visibility: visible;
+    }
+
+    #pickupGeneratorContainer .pickup-a4-container {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 210mm;
+        height: 297mm;
+        margin: 0;
+        padding: 0;
+        box-shadow: none;
+        border: none;
+        background: white;
+    }
+
+    #pickupGeneratorContainer .pickup-labels-grid {
+        width: 208mm !important;
+        height: 283mm !important;
+        margin: 7mm 1mm !important;
+        gap: 0 !important;
+        padding: 0 !important;
+        display: grid !important;
+        grid-template-columns: repeat(2, 104mm) !important;
+        grid-template-rows: repeat(6, 47mm) !important;
+    }
+
+    #pickupGeneratorContainer .pickup-label {
+        width: 104mm !important;
+        height: 47mm !important;
+        margin: 0 !important;
+        padding: 2mm !important;
+        box-sizing: border-box !important;
+        border: 1px solid #999 !important;
+    }
+
+    #pickupGeneratorContainer .pickup-upload-area,
+    #pickupGeneratorContainer .pickup-button-group,
+    #pickupGeneratorContainer h1,
+    #pickupGeneratorContainer #pickupPreview > h3 {
+        display: none !important;
+    }
+}
